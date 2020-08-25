@@ -29,5 +29,5 @@ As a contributor, you can make my life as a maintainer easier by:
  - **Discord**: April#1999
  - **Switch**: SW-0839-6477-6385
  - **Steam**: [/id/AprilSylph](https://steamcommunity.com/id/AprilSylph)
- - **YouTube**: [channel/UCw2Qw8rgH4wh5dj2whEcSdw](https://www.youtube.com/channel/UCw2Qw8rgH4wh5dj2whEcSdw)
+ - **YouTube**: [/channel/UCw2Qw8rgH4wh5dj2whEcSdw](https://www.youtube.com/channel/UCw2Qw8rgH4wh5dj2whEcSdw)
  - **Mastodon**: [@codegirl@cybre.space](https://cybre.space/@codegirl)
