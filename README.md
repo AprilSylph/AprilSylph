@@ -2,8 +2,9 @@
 
 I am a WebExtension developer and Tumblr theme author.
 
-My current main project is:
+My current main projects are:
  - [XKit Rewritten](https://github.com/AprilSylph/XKit-Rewritten)
+ - [Palettes for Tumblr](https://github.com/AprilSylph/Palettes-for-Tumblr)
 
 Outside of my own repositories, I also maintain:
  - [New XKit](https://github.com/new-xkit/XKit) (August 2017 - present)
