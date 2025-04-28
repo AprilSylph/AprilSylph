@@ -1,18 +1,10 @@
-### About me
-
-I am a WebExtension developer and Tumblr theme author.
-
-For what I'm currently working on, check out my pinned repositories!
-
-I hold the following certifications:
- - [freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/aprilsylph/javascript-algorithms-and-data-structures) (May 2020)
- - [freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/aprilsylph/responsive-web-design) (June 2020)
-
----
-
-### Guidelines for interaction
-
-As a contributor, you can make my life as a maintainer easier by:
- - Accepting my code suggestions through GitHub's interface
- - Marking conversations as resolved as you address them
- - (Re-)requesting my review when you're ready for one
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AprilSylph&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img alt="AprilSylph's Stats" src="https://github-readme-stats.vercel.app/api?username=AprilSylph&theme=default&show_icons=true&hide_border=false&count_private=true" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AprilSylph&theme=dark&hide_border=true"/>
+    <img alt="AprilSylph's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AprilSylph&theme=default&hide_border=false" height="200">
+  </picture>
+</p>
