@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rho-eight.vercel.app/api?username=AprilSylph&theme=dark&show_icons=true&hide_border=true&rank_icon=percentile&include_all_commits=true&number_format=long"/>
-    <img alt="AprilSylph's Stats" src="https://github-readme-stats-rho-eight.vercel.app/api?username=AprilSylph&theme=default&show_icons=true&hide_border=false&rank_icon=percentile&include_all_commits=true&number_format=long" height="167">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-rho-eight.vercel.app/api?username=AprilSylph&hide=prs%2Cissues%2Ccontribs&hide_border=true&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews%2Cdiscussions_answered%2Cprs_merged&show_icons=true&theme=dark"/>
+    <img alt="AprilSylph's Stats" src="https://github-readme-stats-rho-eight.vercel.app/api?username=AprilSylph&hide=prs%2Cissues%2Ccontribs&hide_border=false&include_all_commits=true&number_format=long&rank_icon=percentile&show=reviews%2Cdiscussions_answered%2Cprs_merged&show_icons=true&theme=default" height="167">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-zeta-topaz.vercel.app/?user=AprilSylph&theme=dark&hide_border=true&excludeDaysLabel=transparent&exclude_days=Sat%2CSun"/>
-    <img alt="AprilSylph's Streak" src="https://github-readme-streak-stats-zeta-topaz.vercel.app/?user=AprilSylph&theme=default&hide_border=false&excludeDaysLabel=transparent&exclude_days=Sat%2CSun" height="167">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-zeta-topaz.vercel.app/?user=AprilSylph&excludeDaysLabel=transparent&exclude_days=Sat%2CSun&hide_border=true&theme=dark"/>
+    <img alt="AprilSylph's Streak" src="https://github-readme-streak-stats-zeta-topaz.vercel.app/?user=AprilSylph&excludeDaysLabel=transparent&exclude_days=Sat%2CSun&hide_border=false&theme=default" height="167">
   </picture>
 </p>
